@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Krishna Manisuresh — EE Student & Aspiring SWE</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.383.0/umd/lucide.min.js"></script>
+</head>
+<body>
+
+  <!-- ── CURSOR DOT ── -->
+  <div class="cursor-dot" id="cursorDot"></div>
+
+  <!-- ── NAV ── -->
+  <header id="header">
+    <nav class="nav-inner">
+      <a href="#hero" class="logo">KM<span class="logo-dot">.</span></a>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#contact" class="nav-btn">Contact</a></li>
+      </ul>
+      <button class="burger" id="burger" aria-label="Toggle menu">
+        <span></span><span></span>
+      </button>
+    </nav>
+    <div class="mobile-nav" id="mobileNav">
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#skills">Skills</a>
+      <a href="#experience">Experience</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </header>
+
+  <!-- ── HERO ── -->
+  <section id="hero">
+    <div class="hero-grid">
+      <div class="hero-number" aria-hidden="true">01</div>
+      <div class="hero-content">
+        <p class="hero-label anim-fade" style="--d:0.1s">Electrical Engineering · Rutgers University · Class 2029</p>
+        <h1 class="hero-name anim-up" style="--d:0.25s">
+          Krishna<br /><span class="name-italic">Manisuresh</span>
+        </h1>
+        <p class="hero-title anim-up" style="--d:0.4s">
+          Electrical Engineering Student <span class="divider">|</span> Aspiring Software Engineer
+        </p>
+        <blockquote class="hero-tagline anim-up" style="--d:0.55s">
+          "Building automation, solving problems,<br class="br-desk" /> and creating scalable systems."
+        </blockquote>
+        <div class="hero-ctas anim-up" style="--d:0.7s">
+          <a href="#projects" class="cta-solid">See My Work</a>
+          <a href="#contact" class="cta-outline">Get in Touch</a>
+        </div>
+      </div>
+
+      <!-- decorative teal bar -->
+      <div class="hero-accent" aria-hidden="true"></div>
+    </div>
+
+    <!-- floating chips -->
+    <div class="hero-chips" aria-hidden="true">
+      <span class="chip anim-chip" style="--d:0.9s">Python</span>
+      <span class="chip anim-chip" style="--d:1.0s">ETL Pipelines</span>
+      <span class="chip anim-chip" style="--d:1.1s">CAD</span>
+      <span class="chip anim-chip" style="--d:1.2s">Pandas</span>
+    </div>
+    <div class="hero-glow-edge" aria-hidden="true"></div>
+  </section>
+
+  <!-- ── ABOUT ── -->
+  <section id="about" class="section">
+    <div class="container">
+      <div class="section-meta">
+        <span class="sec-num">02</span>
+        <span class="sec-label">About Me</span>
+      </div>
+      <div class="about-layout">
+        <h2 class="about-heading reveal">
+          Engineer by training.<br /><em>Builder</em> by choice.
+        </h2>
+        <div class="about-body">
+          <p class="reveal" style="--ri:1">
+            I am a first-year Electrical Engineering student at Rutgers University with a strong interest
+            in software engineering and automation. I have hands-on experience building Python-based data
+            pipelines and working with tools like Git, Pandas, and SQL.
+          </p>
+          <p class="reveal" style="--ri:2">
+            I enjoy solving real-world problems and continuously improving my technical and communication
+            skills — whether that's through coursework, personal projects, or supporting 30+ clients daily
+            at Verizon.
+          </p>
+          <div class="about-stats reveal" style="--ri:3">
+            <div class="stat">
+              <span class="stat-num">500<span class="stat-plus">+</span></span>
+              <span class="stat-desc">E-commerce transactions managed</span>
+            </div>
+            <div class="stat">
+              <span class="stat-num">40<span class="stat-plus">+</span></span>
+              <span class="stat-desc">Support tickets resolved daily</span>
+            </div>
+            <div class="stat">
+              <span class="stat-num">2</span>
+              <span class="stat-desc">Active personal projects</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── PROJECTS ── -->
+  <section id="projects" class="section section-alt">
+    <div class="container">
+      <div class="section-meta">
+        <span class="sec-num">03</span>
+        <span class="sec-label">Projects</span>
+      </div>
+      <h2 class="sec-heading reveal">Things I've built</h2>
+
+      <div class="projects-grid">
+
+        <article class="proj-card reveal" style="--ri:1">
+          <div class="proj-card-shine" aria-hidden="true"></div>
+          <div class="proj-card-top">
+            <div class="proj-icon-wrap">
+              <i data-lucide="database" class="proj-icon"></i>
+            </div>
+            <div class="proj-index">01</div>
+          </div>
+          <div class="proj-tags">
+            <span>Python</span><span>Pandas</span><span>ETL</span><span>Git</span>
+          </div>
+          <h3>Automated Data Processing Pipeline</h3>
+          <p>
+            Built a Python ETL pipeline using Pandas to process financial data from multiple CSV files
+            and generate automated weekly summary reports. Managed the full lifecycle on GitLab with
+            documented version control.
+          </p>
+          <a href="https://gitlab.com/krishnasuresh712-group/automated-data-processing-pipeline"
+             target="_blank" rel="noopener" class="proj-link">
+            View on GitLab <span class="arrow">→</span>
+          </a>
+        </article>
+
+        <article class="proj-card reveal" style="--ri:2">
+          <div class="proj-card-shine" aria-hidden="true"></div>
+          <div class="proj-card-top">
+            <div class="proj-icon-wrap">
+              <i data-lucide="box" class="proj-icon"></i>
+            </div>
+            <div class="proj-index">02</div>
+          </div>
+          <div class="proj-tags">
+            <span>AutoCAD</span><span>SolidWorks</span><span>3D Design</span>
+          </div>
+          <h3>CAD Modeling Project</h3>
+          <p>
+            Designed a complex multi-part LEGO block assembly using CAD software, focusing on
+            dimensional precision, part compatibility, and constraint-driven 3D modeling principles.
+          </p>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── SKILLS ── -->
+  <section id="skills" class="section">
+    <div class="container">
+      <div class="section-meta">
+        <span class="sec-num">04</span>
+        <span class="sec-label">Skills</span>
+      </div>
+      <h2 class="sec-heading reveal">What I work with</h2>
+
+      <div class="skills-scroll reveal" style="--ri:1">
+        <div class="skills-track">
+          <!-- duplicated for infinite scroll effect -->
+          <span>Python</span><span>Pandas</span><span>SQL</span><span>Git</span>
+          <span>GitLab</span><span>VSCode</span><span>HTML / CSS</span>
+          <span>AutoCAD</span><span>SolidWorks</span><span>Jira</span><span>Excel</span>
+          <span>Python</span><span>Pandas</span><span>SQL</span><span>Git</span>
+          <span>GitLab</span><span>VSCode</span><span>HTML / CSS</span>
+          <span>AutoCAD</span><span>SolidWorks</span><span>Jira</span><span>Excel</span>
+        </div>
+      </div>
+
+      <div class="skills-groups">
+        <div class="skill-group reveal" style="--ri:1">
+          <h4>Languages & Libraries</h4>
+          <div class="skill-pills">
+            <button><i data-lucide="code-2"></i>Python</button>
+            <button><i data-lucide="table-2"></i>Pandas</button>
+            <button><i data-lucide="database"></i>SQL</button>
+            <button><i data-lucide="globe"></i>HTML</button>
+            <button><i data-lucide="paintbrush"></i>CSS</button>
+          </div>
+        </div>
+        <div class="skill-group reveal" style="--ri:2">
+          <h4>Tools & Platforms</h4>
+          <div class="skill-pills">
+            <button><i data-lucide="git-branch"></i>Git</button>
+            <button><i data-lucide="gitlab"></i>GitLab</button>
+            <button><i data-lucide="code"></i>VSCode</button>
+            <button><i data-lucide="layout-list"></i>Jira</button>
+            <button><i data-lucide="file-spreadsheet"></i>Excel</button>
+          </div>
+        </div>
+        <div class="skill-group reveal" style="--ri:3">
+          <h4>Design & CAD</h4>
+          <div class="skill-pills">
+            <button><i data-lucide="pen-tool"></i>AutoCAD</button>
+            <button><i data-lucide="box"></i>SolidWorks</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── EXPERIENCE ── -->
+  <section id="experience" class="section section-alt">
+    <div class="container">
+      <div class="section-meta">
+        <span class="sec-num">05</span>
+        <span class="sec-label">Experience</span>
+      </div>
+      <h2 class="sec-heading reveal">Where I've worked</h2>
+
+      <div class="exp-list">
+
+        <div class="exp-item reveal" style="--ri:1">
+          <div class="exp-left">
+            <span class="exp-period">May – Aug 2025</span>
+            <span class="exp-co">Verizon</span>
+          </div>
+          <div class="exp-right">
+            <h3>Technical Solutions Specialist</h3>
+            <p>
+              Handled 30+ clients daily, diagnosing and resolving complex software, hardware,
+              and network issues. Translated technical specs into clear solutions for non-technical
+              customers using proprietary CRM tools.
+            </p>
+          </div>
+        </div>
+
+        <div class="exp-item reveal" style="--ri:2">
+          <div class="exp-left">
+            <span class="exp-period">Feb – Apr 2024</span>
+            <span class="exp-co">Shopify Client</span>
+          </div>
+          <div class="exp-right">
+            <h3>Customer Support Specialist</h3>
+            <p>
+              Resolved 40+ daily technical and payment issues in a fast-paced remote environment.
+              Utilized Zendesk and Jira to track and manage complex user problems efficiently.
+            </p>
+          </div>
+        </div>
+
+        <div class="exp-item reveal" style="--ri:3">
+          <div class="exp-left">
+            <span class="exp-period">Jun 2022 – Present</span>
+            <span class="exp-co">Yarville</span>
+          </div>
+          <div class="exp-right">
+            <h3>Founder & Operator</h3>
+            <p>
+              Built and managed an e-commerce clothing brand from the ground up. Used Google Analytics
+              to analyze 500+ customer transactions and optimize marketing and operations.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── CONTACT ── -->
+  <section id="contact" class="section">
+    <div class="container contact-wrap">
+      <div class="section-meta">
+        <span class="sec-num">06</span>
+        <span class="sec-label">Contact</span>
+      </div>
+      <h2 class="contact-heading reveal">
+        Let's <em>connect.</em>
+      </h2>
+      <p class="contact-sub reveal" style="--ri:1">
+        Actively seeking Summer 2026 SWE internships. Open to opportunities, collaborations, or just a chat.
+      </p>
+      <div class="contact-cards reveal" style="--ri:2">
+        <a href="mailto:krishnasuresh712@gmail.com" class="contact-card">
+          <div class="cc-icon">✉</div>
+          <div class="cc-body">
+            <span class="cc-label">Email</span>
+            <span class="cc-val">krishnasuresh712@gmail.com</span>
+          </div>
+          <span class="cc-arrow">→</span>
+        </a>
+        <a href="https://www.linkedin.com/in/krishna-manisuresh-b14135247/"
+           target="_blank" rel="noopener" class="contact-card">
+          <div class="cc-icon">in</div>
+          <div class="cc-body">
+            <span class="cc-label">LinkedIn</span>
+            <span class="cc-val">krishna-manisuresh</span>
+          </div>
+          <span class="cc-arrow">→</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── FOOTER ── -->
+  <footer>
+    <div class="container footer-row">
+      <span>© 2026 Krishna Manisuresh</span>
+      <span>Rutgers University · Electrical Engineering · Class 2029</span>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+  <script>lucide.createIcons();</script>
+</body>
+</html>
