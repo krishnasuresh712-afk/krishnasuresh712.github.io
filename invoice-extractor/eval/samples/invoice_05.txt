@@ -1,0 +1,14 @@
+INVOICE
+From: Raritan Industrial Supply
+Invoice No. INV-20260005    Issued February 04, 2026
+Payment due by March 06, 2026
+
+Items
+  2 x Bubble wrap roll 12in x 50ft @ $16.80 = $33.60
+  10 x Pallet wrap 18in @ $27.60 = $276.00
+  10 x Void fill paper (case) @ $39.00 = $390.00
+  11 x Poly mailers 10x13 (100 ct) @ $14.95 = $164.45
+
+Net amount ............ USD 864.05
+NJ sales tax .......... USD 57.24
+Amount due ............ USD 921.29

@@ -1,0 +1,24 @@
+{
+  "vendor_name": "Raritan Industrial Supply",
+  "invoice_number": "INV-20260016",
+  "invoice_date": "2026-02-12",
+  "due_date": "2026-03-14",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Packing tape 2in (6 rolls)",
+      "quantity": 8,
+      "unit_price": "11.25",
+      "amount": "90.00"
+    },
+    {
+      "description": "Corrugated boxes 12x9x4 (bundle of 25)",
+      "quantity": 10,
+      "unit_price": "18.40",
+      "amount": "184.00"
+    }
+  ],
+  "subtotal": "274.00",
+  "tax": "18.15",
+  "total": "292.15"
+}

@@ -1,0 +1,16 @@
+Pinebarren Labels LLC
+1200 Route 1, Edison, NJ 08817
+
+Invoice #: INV-20260007
+Invoice Date: 2026-05-04
+Due Date: 2026-06-03
+
+Description                                 Qty  Unit Price     Amount
+Pallet wrap 18in                              3      $27.60      $82.80
+Thermal shipping labels 4x6 (500 ct)         12      $22.50     $270.00
+Freight handling fee                          4      $45.00     $180.00
+Poly mailers 10x13 (100 ct)                   2      $14.95      $29.90
+
+Subtotal: $562.70
+Tax (6.625%): $37.28
+Total: $599.98

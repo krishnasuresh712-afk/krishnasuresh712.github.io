@@ -1,0 +1,24 @@
+{
+  "vendor_name": "Pinebarren Labels LLC",
+  "invoice_number": "INV-20260017",
+  "invoice_date": "2026-03-18",
+  "due_date": "2026-05-02",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Thermal shipping labels 4x6 (500 ct)",
+      "quantity": 9,
+      "unit_price": "22.50",
+      "amount": "202.50"
+    },
+    {
+      "description": "Packing tape 2in (6 rolls)",
+      "quantity": 6,
+      "unit_price": "11.25",
+      "amount": "67.50"
+    }
+  ],
+  "subtotal": "270.00",
+  "tax": "17.89",
+  "total": "287.89"
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Garden State Packaging Co.",
+  "invoice_number": "INV-20260010",
+  "invoice_date": "2026-01-24",
+  "due_date": "2026-02-08",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Void fill paper (case)",
+      "quantity": 10,
+      "unit_price": "39.00",
+      "amount": "390.00"
+    },
+    {
+      "description": "Thermal shipping labels 4x6 (500 ct)",
+      "quantity": 8,
+      "unit_price": "22.50",
+      "amount": "180.00"
+    },
+    {
+      "description": "Pallet wrap 18in",
+      "quantity": 10,
+      "unit_price": "27.60",
+      "amount": "276.00"
+    },
+    {
+      "description": "Freight handling fee",
+      "quantity": 8,
+      "unit_price": "45.00",
+      "amount": "360.00"
+    }
+  ],
+  "subtotal": "1206.00",
+  "tax": "79.90",
+  "total": "1285.90"
+}

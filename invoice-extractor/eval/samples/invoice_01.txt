@@ -1,0 +1,14 @@
+Pinebarren Labels LLC
+1200 Route 1, Edison, NJ 08817
+
+Invoice #: INV-20260001
+Invoice Date: 2026-03-28
+Due Date: 2026-04-12
+
+Description                                 Qty  Unit Price     Amount
+Freight handling fee                          1      $45.00      $45.00
+Void fill paper (case)                        2      $39.00      $78.00
+
+Subtotal: $123.00
+Tax (6.625%): $8.15
+Total: $131.15

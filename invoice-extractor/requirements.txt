@@ -1,0 +1,4 @@
+pydantic>=2.7
+anthropic>=0.40
+pypdf>=4.0
+pytest>=8.0

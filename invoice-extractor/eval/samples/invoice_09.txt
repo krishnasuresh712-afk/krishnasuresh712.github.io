@@ -1,0 +1,11 @@
+BILL TO: Krishna Store LLC, Edison NJ
+REF INV-20260009 | DATED 04/22/2026 | TERMS: due 06/06/2026
+
+| Item | Qty | Rate | Line total |
+|---|---|---|---|
+| Void fill paper (case) | 8 | 39.00 | 312.00 |
+| Poly mailers 10x13 (100 ct) | 7 | 14.95 | 104.65 |
+
+Subtotal 416.65 / Sales tax 27.60 / TOTAL USD 444.25
+
+Remit to: Garden State Packaging Co., Accounts Receivable

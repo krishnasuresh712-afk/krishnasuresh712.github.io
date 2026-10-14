@@ -1,0 +1,15 @@
+Garden State Packaging Co.
+1200 Route 1, Edison, NJ 08817
+
+Invoice #: INV-20260019
+Invoice Date: 2026-04-17
+Due Date: 2026-05-02
+
+Description                                 Qty  Unit Price     Amount
+Poly mailers 10x13 (100 ct)                   7      $14.95     $104.65
+Packing tape 2in (6 rolls)                    1      $11.25      $11.25
+Void fill paper (case)                        4      $39.00     $156.00
+
+Subtotal: $271.90
+Tax (6.625%): $18.01
+Total: $289.91

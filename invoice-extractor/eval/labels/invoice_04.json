@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Raritan Industrial Supply",
+  "invoice_number": "INV-20260004",
+  "invoice_date": "2026-01-20",
+  "due_date": "2026-03-06",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Freight handling fee",
+      "quantity": 9,
+      "unit_price": "45.00",
+      "amount": "405.00"
+    },
+    {
+      "description": "Corrugated boxes 12x9x4 (bundle of 25)",
+      "quantity": 3,
+      "unit_price": "18.40",
+      "amount": "55.20"
+    },
+    {
+      "description": "Poly mailers 10x13 (100 ct)",
+      "quantity": 5,
+      "unit_price": "14.95",
+      "amount": "74.75"
+    },
+    {
+      "description": "Pallet wrap 18in",
+      "quantity": 7,
+      "unit_price": "27.60",
+      "amount": "193.20"
+    }
+  ],
+  "subtotal": "728.15",
+  "tax": "48.24",
+  "total": "776.39"
+}

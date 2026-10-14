@@ -1,0 +1,13 @@
+INVOICE
+From: Raritan Industrial Supply
+Invoice No. INV-20260014    Issued August 27, 2026
+Payment due by September 26, 2026
+
+Items
+  7 x Poly mailers 10x13 (100 ct) @ $14.95 = $104.65
+  9 x Pallet wrap 18in @ $27.60 = $248.40
+  5 x Packing tape 2in (6 rolls) @ $11.25 = $56.25
+
+Net amount ............ USD 409.30
+NJ sales tax .......... USD 27.12
+Amount due ............ USD 436.42

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Raritan Industrial Supply",
+  "invoice_number": "INV-20260005",
+  "invoice_date": "2026-02-04",
+  "due_date": "2026-03-06",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Bubble wrap roll 12in x 50ft",
+      "quantity": 2,
+      "unit_price": "16.80",
+      "amount": "33.60"
+    },
+    {
+      "description": "Pallet wrap 18in",
+      "quantity": 10,
+      "unit_price": "27.60",
+      "amount": "276.00"
+    },
+    {
+      "description": "Void fill paper (case)",
+      "quantity": 10,
+      "unit_price": "39.00",
+      "amount": "390.00"
+    },
+    {
+      "description": "Poly mailers 10x13 (100 ct)",
+      "quantity": 11,
+      "unit_price": "14.95",
+      "amount": "164.45"
+    }
+  ],
+  "subtotal": "864.05",
+  "tax": "57.24",
+  "total": "921.29"
+}

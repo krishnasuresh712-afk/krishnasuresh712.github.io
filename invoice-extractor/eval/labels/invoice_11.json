@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Pinebarren Labels LLC",
+  "invoice_number": "INV-20260011",
+  "invoice_date": "2026-03-15",
+  "due_date": "2026-04-29",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Poly mailers 10x13 (100 ct)",
+      "quantity": 12,
+      "unit_price": "14.95",
+      "amount": "179.40"
+    },
+    {
+      "description": "Corrugated boxes 12x9x4 (bundle of 25)",
+      "quantity": 5,
+      "unit_price": "18.40",
+      "amount": "92.00"
+    },
+    {
+      "description": "Void fill paper (case)",
+      "quantity": 11,
+      "unit_price": "39.00",
+      "amount": "429.00"
+    }
+  ],
+  "subtotal": "700.40",
+  "tax": "46.40",
+  "total": "746.80"
+}

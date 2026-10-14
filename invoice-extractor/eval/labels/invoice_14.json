@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Raritan Industrial Supply",
+  "invoice_number": "INV-20260014",
+  "invoice_date": "2026-08-27",
+  "due_date": "2026-09-26",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Poly mailers 10x13 (100 ct)",
+      "quantity": 7,
+      "unit_price": "14.95",
+      "amount": "104.65"
+    },
+    {
+      "description": "Pallet wrap 18in",
+      "quantity": 9,
+      "unit_price": "27.60",
+      "amount": "248.40"
+    },
+    {
+      "description": "Packing tape 2in (6 rolls)",
+      "quantity": 5,
+      "unit_price": "11.25",
+      "amount": "56.25"
+    }
+  ],
+  "subtotal": "409.30",
+  "tax": "27.12",
+  "total": "436.42"
+}

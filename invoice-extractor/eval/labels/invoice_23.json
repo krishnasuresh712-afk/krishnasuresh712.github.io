@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Garden State Packaging Co.",
+  "invoice_number": "INV-20260023",
+  "invoice_date": "2026-02-03",
+  "due_date": "2026-03-20",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Pallet wrap 18in",
+      "quantity": 5,
+      "unit_price": "27.60",
+      "amount": "138.00"
+    },
+    {
+      "description": "Packing tape 2in (6 rolls)",
+      "quantity": 2,
+      "unit_price": "11.25",
+      "amount": "22.50"
+    },
+    {
+      "description": "Freight handling fee",
+      "quantity": 3,
+      "unit_price": "45.00",
+      "amount": "135.00"
+    }
+  ],
+  "subtotal": "295.50",
+  "tax": "19.58",
+  "total": "315.08"
+}

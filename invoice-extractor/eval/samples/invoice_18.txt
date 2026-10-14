@@ -1,0 +1,11 @@
+BILL TO: Krishna Store LLC, Edison NJ
+REF INV-20260018 | DATED 03/27/2026 | TERMS: due 04/26/2026
+
+| Item | Qty | Rate | Line total |
+|---|---|---|---|
+| Corrugated boxes 12x9x4 (bundle of 25) | 11 | 18.40 | 202.40 |
+| Packing tape 2in (6 rolls) | 9 | 11.25 | 101.25 |
+
+Subtotal 303.65 / Sales tax 20.12 / TOTAL USD 323.77
+
+Remit to: Keystone Freight Services, Accounts Receivable

@@ -1,0 +1,13 @@
+INVOICE
+From: Garden State Packaging Co.
+Invoice No. INV-20260023    Issued February 03, 2026
+Payment due by March 20, 2026
+
+Items
+  5 x Pallet wrap 18in @ $27.60 = $138.00
+  2 x Packing tape 2in (6 rolls) @ $11.25 = $22.50
+  3 x Freight handling fee @ $45.00 = $135.00
+
+Net amount ............ USD 295.50
+NJ sales tax .......... USD 19.58
+Amount due ............ USD 315.08

@@ -1,0 +1,12 @@
+INVOICE
+From: Pinebarren Labels LLC
+Invoice No. INV-20260017    Issued March 18, 2026
+Payment due by May 02, 2026
+
+Items
+  9 x Thermal shipping labels 4x6 (500 ct) @ $22.50 = $202.50
+  6 x Packing tape 2in (6 rolls) @ $11.25 = $67.50
+
+Net amount ............ USD 270.00
+NJ sales tax .......... USD 17.89
+Amount due ............ USD 287.89

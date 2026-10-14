@@ -1,0 +1,13 @@
+BILL TO: Krishna Store LLC, Edison NJ
+REF INV-20260024 | DATED 04/02/2026 | TERMS: due 04/17/2026
+
+| Item | Qty | Rate | Line total |
+|---|---|---|---|
+| Bubble wrap roll 12in x 50ft | 9 | 16.80 | 151.20 |
+| Packing tape 2in (6 rolls) | 1 | 11.25 | 11.25 |
+| Void fill paper (case) | 4 | 39.00 | 156.00 |
+| Poly mailers 10x13 (100 ct) | 9 | 14.95 | 134.55 |
+
+Subtotal 453.00 / Sales tax 30.01 / TOTAL USD 483.01
+
+Remit to: Hudson Valley Office Goods, Accounts Receivable

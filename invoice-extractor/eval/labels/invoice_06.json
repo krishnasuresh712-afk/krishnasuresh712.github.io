@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Keystone Freight Services",
+  "invoice_number": "INV-20260006",
+  "invoice_date": "2026-01-29",
+  "due_date": "2026-02-28",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Poly mailers 10x13 (100 ct)",
+      "quantity": 4,
+      "unit_price": "14.95",
+      "amount": "59.80"
+    },
+    {
+      "description": "Bubble wrap roll 12in x 50ft",
+      "quantity": 8,
+      "unit_price": "16.80",
+      "amount": "134.40"
+    },
+    {
+      "description": "Corrugated boxes 12x9x4 (bundle of 25)",
+      "quantity": 11,
+      "unit_price": "18.40",
+      "amount": "202.40"
+    },
+    {
+      "description": "Freight handling fee",
+      "quantity": 9,
+      "unit_price": "45.00",
+      "amount": "405.00"
+    }
+  ],
+  "subtotal": "801.60",
+  "tax": "53.11",
+  "total": "854.71"
+}

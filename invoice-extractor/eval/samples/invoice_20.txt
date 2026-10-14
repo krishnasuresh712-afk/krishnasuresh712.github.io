@@ -1,0 +1,12 @@
+INVOICE
+From: Garden State Packaging Co.
+Invoice No. INV-20260020    Issued April 27, 2026
+Payment due by May 12, 2026
+
+Items
+  10 x Poly mailers 10x13 (100 ct) @ $14.95 = $149.50
+  1 x Thermal shipping labels 4x6 (500 ct) @ $22.50 = $22.50
+
+Net amount ............ USD 172.00
+NJ sales tax .......... USD 11.40
+Amount due ............ USD 183.40

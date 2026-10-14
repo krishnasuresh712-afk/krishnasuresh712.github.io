@@ -1,0 +1,24 @@
+{
+  "vendor_name": "Garden State Packaging Co.",
+  "invoice_number": "INV-20260009",
+  "invoice_date": "2026-04-22",
+  "due_date": "2026-06-06",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Void fill paper (case)",
+      "quantity": 8,
+      "unit_price": "39.00",
+      "amount": "312.00"
+    },
+    {
+      "description": "Poly mailers 10x13 (100 ct)",
+      "quantity": 7,
+      "unit_price": "14.95",
+      "amount": "104.65"
+    }
+  ],
+  "subtotal": "416.65",
+  "tax": "27.60",
+  "total": "444.25"
+}

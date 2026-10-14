@@ -1,0 +1,11 @@
+BILL TO: Krishna Store LLC, Edison NJ
+REF INV-20260021 | DATED 05/30/2026 | TERMS: due 06/14/2026
+
+| Item | Qty | Rate | Line total |
+|---|---|---|---|
+| Poly mailers 10x13 (100 ct) | 10 | 14.95 | 149.50 |
+| Thermal shipping labels 4x6 (500 ct) | 1 | 22.50 | 22.50 |
+
+Subtotal 172.00 / Sales tax 11.40 / TOTAL USD 183.40
+
+Remit to: Garden State Packaging Co., Accounts Receivable

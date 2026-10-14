@@ -1,0 +1,13 @@
+INVOICE
+From: Garden State Packaging Co.
+Invoice No. INV-20260008    Issued May 19, 2026
+Payment due by July 03, 2026
+
+Items
+  5 x Void fill paper (case) @ $39.00 = $195.00
+  10 x Pallet wrap 18in @ $27.60 = $276.00
+  2 x Packing tape 2in (6 rolls) @ $11.25 = $22.50
+
+Net amount ............ USD 493.50
+NJ sales tax .......... USD 32.69
+Amount due ............ USD 526.19

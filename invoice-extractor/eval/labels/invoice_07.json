@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Pinebarren Labels LLC",
+  "invoice_number": "INV-20260007",
+  "invoice_date": "2026-05-04",
+  "due_date": "2026-06-03",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Pallet wrap 18in",
+      "quantity": 3,
+      "unit_price": "27.60",
+      "amount": "82.80"
+    },
+    {
+      "description": "Thermal shipping labels 4x6 (500 ct)",
+      "quantity": 12,
+      "unit_price": "22.50",
+      "amount": "270.00"
+    },
+    {
+      "description": "Freight handling fee",
+      "quantity": 4,
+      "unit_price": "45.00",
+      "amount": "180.00"
+    },
+    {
+      "description": "Poly mailers 10x13 (100 ct)",
+      "quantity": 2,
+      "unit_price": "14.95",
+      "amount": "29.90"
+    }
+  ],
+  "subtotal": "562.70",
+  "tax": "37.28",
+  "total": "599.98"
+}

@@ -1,0 +1,24 @@
+{
+  "vendor_name": "Pinebarren Labels LLC",
+  "invoice_number": "INV-20260001",
+  "invoice_date": "2026-03-28",
+  "due_date": "2026-04-12",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Freight handling fee",
+      "quantity": 1,
+      "unit_price": "45.00",
+      "amount": "45.00"
+    },
+    {
+      "description": "Void fill paper (case)",
+      "quantity": 2,
+      "unit_price": "39.00",
+      "amount": "78.00"
+    }
+  ],
+  "subtotal": "123.00",
+  "tax": "8.15",
+  "total": "131.15"
+}

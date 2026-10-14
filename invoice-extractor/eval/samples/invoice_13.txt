@@ -1,0 +1,16 @@
+Keystone Freight Services
+1200 Route 1, Edison, NJ 08817
+
+Invoice #: INV-20260013
+Invoice Date: 2026-02-17
+Due Date: 2026-03-19
+
+Description                                 Qty  Unit Price     Amount
+Poly mailers 10x13 (100 ct)                   5      $14.95      $74.75
+Packing tape 2in (6 rolls)                    3      $11.25      $33.75
+Corrugated boxes 12x9x4 (bundle of 25)       12      $18.40     $220.80
+Pallet wrap 18in                              4      $27.60     $110.40
+
+Subtotal: $439.70
+Tax (6.625%): $29.13
+Total: $468.83

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Keystone Freight Services",
+  "invoice_number": "INV-20260013",
+  "invoice_date": "2026-02-17",
+  "due_date": "2026-03-19",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Poly mailers 10x13 (100 ct)",
+      "quantity": 5,
+      "unit_price": "14.95",
+      "amount": "74.75"
+    },
+    {
+      "description": "Packing tape 2in (6 rolls)",
+      "quantity": 3,
+      "unit_price": "11.25",
+      "amount": "33.75"
+    },
+    {
+      "description": "Corrugated boxes 12x9x4 (bundle of 25)",
+      "quantity": 12,
+      "unit_price": "18.40",
+      "amount": "220.80"
+    },
+    {
+      "description": "Pallet wrap 18in",
+      "quantity": 4,
+      "unit_price": "27.60",
+      "amount": "110.40"
+    }
+  ],
+  "subtotal": "439.70",
+  "tax": "29.13",
+  "total": "468.83"
+}

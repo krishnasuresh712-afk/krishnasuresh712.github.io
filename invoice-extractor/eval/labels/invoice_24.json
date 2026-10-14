@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Hudson Valley Office Goods",
+  "invoice_number": "INV-20260024",
+  "invoice_date": "2026-04-02",
+  "due_date": "2026-04-17",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Bubble wrap roll 12in x 50ft",
+      "quantity": 9,
+      "unit_price": "16.80",
+      "amount": "151.20"
+    },
+    {
+      "description": "Packing tape 2in (6 rolls)",
+      "quantity": 1,
+      "unit_price": "11.25",
+      "amount": "11.25"
+    },
+    {
+      "description": "Void fill paper (case)",
+      "quantity": 4,
+      "unit_price": "39.00",
+      "amount": "156.00"
+    },
+    {
+      "description": "Poly mailers 10x13 (100 ct)",
+      "quantity": 9,
+      "unit_price": "14.95",
+      "amount": "134.55"
+    }
+  ],
+  "subtotal": "453.00",
+  "tax": "30.01",
+  "total": "483.01"
+}

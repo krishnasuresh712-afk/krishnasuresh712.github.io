@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Raritan Industrial Supply",
+  "invoice_number": "INV-20260002",
+  "invoice_date": "2026-04-08",
+  "due_date": "2026-04-23",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Corrugated boxes 12x9x4 (bundle of 25)",
+      "quantity": 2,
+      "unit_price": "18.40",
+      "amount": "36.80"
+    },
+    {
+      "description": "Bubble wrap roll 12in x 50ft",
+      "quantity": 7,
+      "unit_price": "16.80",
+      "amount": "117.60"
+    },
+    {
+      "description": "Poly mailers 10x13 (100 ct)",
+      "quantity": 7,
+      "unit_price": "14.95",
+      "amount": "104.65"
+    },
+    {
+      "description": "Pallet wrap 18in",
+      "quantity": 2,
+      "unit_price": "27.60",
+      "amount": "55.20"
+    }
+  ],
+  "subtotal": "314.25",
+  "tax": "20.82",
+  "total": "335.07"
+}

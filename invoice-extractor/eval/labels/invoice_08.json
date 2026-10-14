@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Garden State Packaging Co.",
+  "invoice_number": "INV-20260008",
+  "invoice_date": "2026-05-19",
+  "due_date": "2026-07-03",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Void fill paper (case)",
+      "quantity": 5,
+      "unit_price": "39.00",
+      "amount": "195.00"
+    },
+    {
+      "description": "Pallet wrap 18in",
+      "quantity": 10,
+      "unit_price": "27.60",
+      "amount": "276.00"
+    },
+    {
+      "description": "Packing tape 2in (6 rolls)",
+      "quantity": 2,
+      "unit_price": "11.25",
+      "amount": "22.50"
+    }
+  ],
+  "subtotal": "493.50",
+  "tax": "32.69",
+  "total": "526.19"
+}

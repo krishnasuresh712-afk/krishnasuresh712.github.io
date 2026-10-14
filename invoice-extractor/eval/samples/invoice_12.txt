@@ -1,0 +1,12 @@
+BILL TO: Krishna Store LLC, Edison NJ
+REF INV-20260012 | DATED 08/03/2026 | TERMS: due 09/02/2026
+
+| Item | Qty | Rate | Line total |
+|---|---|---|---|
+| Bubble wrap roll 12in x 50ft | 11 | 16.80 | 184.80 |
+| Void fill paper (case) | 6 | 39.00 | 234.00 |
+| Packing tape 2in (6 rolls) | 1 | 11.25 | 11.25 |
+
+Subtotal 430.05 / Sales tax 28.49 / TOTAL USD 458.54
+
+Remit to: Keystone Freight Services, Accounts Receivable

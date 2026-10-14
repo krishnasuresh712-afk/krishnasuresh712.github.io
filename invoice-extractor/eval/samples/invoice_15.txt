@@ -1,0 +1,13 @@
+BILL TO: Krishna Store LLC, Edison NJ
+REF INV-20260015 | DATED 08/14/2026 | TERMS: due 08/29/2026
+
+| Item | Qty | Rate | Line total |
+|---|---|---|---|
+| Bubble wrap roll 12in x 50ft | 11 | 16.80 | 184.80 |
+| Void fill paper (case) | 7 | 39.00 | 273.00 |
+| Packing tape 2in (6 rolls) | 4 | 11.25 | 45.00 |
+| Thermal shipping labels 4x6 (500 ct) | 3 | 22.50 | 67.50 |
+
+Subtotal 570.30 / Sales tax 37.78 / TOTAL USD 608.08
+
+Remit to: Garden State Packaging Co., Accounts Receivable

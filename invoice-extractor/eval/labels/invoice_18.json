@@ -1,0 +1,24 @@
+{
+  "vendor_name": "Keystone Freight Services",
+  "invoice_number": "INV-20260018",
+  "invoice_date": "2026-03-27",
+  "due_date": "2026-04-26",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Corrugated boxes 12x9x4 (bundle of 25)",
+      "quantity": 11,
+      "unit_price": "18.40",
+      "amount": "202.40"
+    },
+    {
+      "description": "Packing tape 2in (6 rolls)",
+      "quantity": 9,
+      "unit_price": "11.25",
+      "amount": "101.25"
+    }
+  ],
+  "subtotal": "303.65",
+  "tax": "20.12",
+  "total": "323.77"
+}

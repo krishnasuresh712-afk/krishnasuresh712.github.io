@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Keystone Freight Services",
+  "invoice_number": "INV-20260022",
+  "invoice_date": "2026-06-11",
+  "due_date": "2026-06-26",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Thermal shipping labels 4x6 (500 ct)",
+      "quantity": 6,
+      "unit_price": "22.50",
+      "amount": "135.00"
+    },
+    {
+      "description": "Void fill paper (case)",
+      "quantity": 10,
+      "unit_price": "39.00",
+      "amount": "390.00"
+    },
+    {
+      "description": "Pallet wrap 18in",
+      "quantity": 6,
+      "unit_price": "27.60",
+      "amount": "165.60"
+    }
+  ],
+  "subtotal": "690.60",
+  "tax": "45.75",
+  "total": "736.35"
+}

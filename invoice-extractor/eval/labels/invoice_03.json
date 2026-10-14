@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Liberty Corrugated Inc.",
+  "invoice_number": "INV-20260003",
+  "invoice_date": "2026-05-26",
+  "due_date": "2026-07-10",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Corrugated boxes 12x9x4 (bundle of 25)",
+      "quantity": 2,
+      "unit_price": "18.40",
+      "amount": "36.80"
+    },
+    {
+      "description": "Freight handling fee",
+      "quantity": 4,
+      "unit_price": "45.00",
+      "amount": "180.00"
+    },
+    {
+      "description": "Bubble wrap roll 12in x 50ft",
+      "quantity": 11,
+      "unit_price": "16.80",
+      "amount": "184.80"
+    }
+  ],
+  "subtotal": "401.60",
+  "tax": "26.61",
+  "total": "428.21"
+}

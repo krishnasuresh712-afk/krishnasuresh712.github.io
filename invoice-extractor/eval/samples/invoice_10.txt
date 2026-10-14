@@ -1,0 +1,16 @@
+Garden State Packaging Co.
+1200 Route 1, Edison, NJ 08817
+
+Invoice #: INV-20260010
+Invoice Date: 2026-01-24
+Due Date: 2026-02-08
+
+Description                                 Qty  Unit Price     Amount
+Void fill paper (case)                       10      $39.00     $390.00
+Thermal shipping labels 4x6 (500 ct)          8      $22.50     $180.00
+Pallet wrap 18in                             10      $27.60     $276.00
+Freight handling fee                          8      $45.00     $360.00
+
+Subtotal: $1,206.00
+Tax (6.625%): $79.90
+Total: $1,285.90

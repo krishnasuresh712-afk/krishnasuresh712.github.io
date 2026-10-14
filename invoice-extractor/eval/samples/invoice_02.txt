@@ -1,0 +1,14 @@
+INVOICE
+From: Raritan Industrial Supply
+Invoice No. INV-20260002    Issued April 08, 2026
+Payment due by April 23, 2026
+
+Items
+  2 x Corrugated boxes 12x9x4 (bundle of 25) @ $18.40 = $36.80
+  7 x Bubble wrap roll 12in x 50ft @ $16.80 = $117.60
+  7 x Poly mailers 10x13 (100 ct) @ $14.95 = $104.65
+  2 x Pallet wrap 18in @ $27.60 = $55.20
+
+Net amount ............ USD 314.25
+NJ sales tax .......... USD 20.82
+Amount due ............ USD 335.07

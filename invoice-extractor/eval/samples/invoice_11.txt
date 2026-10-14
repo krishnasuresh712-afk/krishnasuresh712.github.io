@@ -1,0 +1,13 @@
+INVOICE
+From: Pinebarren Labels LLC
+Invoice No. INV-20260011    Issued March 15, 2026
+Payment due by April 29, 2026
+
+Items
+  12 x Poly mailers 10x13 (100 ct) @ $14.95 = $179.40
+  5 x Corrugated boxes 12x9x4 (bundle of 25) @ $18.40 = $92.00
+  11 x Void fill paper (case) @ $39.00 = $429.00
+
+Net amount ............ USD 700.40
+NJ sales tax .......... USD 46.40
+Amount due ............ USD 746.80

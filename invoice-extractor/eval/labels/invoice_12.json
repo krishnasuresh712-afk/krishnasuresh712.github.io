@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Keystone Freight Services",
+  "invoice_number": "INV-20260012",
+  "invoice_date": "2026-08-03",
+  "due_date": "2026-09-02",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Bubble wrap roll 12in x 50ft",
+      "quantity": 11,
+      "unit_price": "16.80",
+      "amount": "184.80"
+    },
+    {
+      "description": "Void fill paper (case)",
+      "quantity": 6,
+      "unit_price": "39.00",
+      "amount": "234.00"
+    },
+    {
+      "description": "Packing tape 2in (6 rolls)",
+      "quantity": 1,
+      "unit_price": "11.25",
+      "amount": "11.25"
+    }
+  ],
+  "subtotal": "430.05",
+  "tax": "28.49",
+  "total": "458.54"
+}

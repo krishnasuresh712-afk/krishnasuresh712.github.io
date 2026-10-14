@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Garden State Packaging Co.",
+  "invoice_number": "INV-20260019",
+  "invoice_date": "2026-04-17",
+  "due_date": "2026-05-02",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Poly mailers 10x13 (100 ct)",
+      "quantity": 7,
+      "unit_price": "14.95",
+      "amount": "104.65"
+    },
+    {
+      "description": "Packing tape 2in (6 rolls)",
+      "quantity": 1,
+      "unit_price": "11.25",
+      "amount": "11.25"
+    },
+    {
+      "description": "Void fill paper (case)",
+      "quantity": 4,
+      "unit_price": "39.00",
+      "amount": "156.00"
+    }
+  ],
+  "subtotal": "271.90",
+  "tax": "18.01",
+  "total": "289.91"
+}

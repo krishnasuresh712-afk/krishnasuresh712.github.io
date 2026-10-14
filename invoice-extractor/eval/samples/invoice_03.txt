@@ -1,0 +1,12 @@
+BILL TO: Krishna Store LLC, Edison NJ
+REF INV-20260003 | DATED 05/26/2026 | TERMS: due 07/10/2026
+
+| Item | Qty | Rate | Line total |
+|---|---|---|---|
+| Corrugated boxes 12x9x4 (bundle of 25) | 2 | 18.40 | 36.80 |
+| Freight handling fee | 4 | 45.00 | 180.00 |
+| Bubble wrap roll 12in x 50ft | 11 | 16.80 | 184.80 |
+
+Subtotal 401.60 / Sales tax 26.61 / TOTAL USD 428.21
+
+Remit to: Liberty Corrugated Inc., Accounts Receivable

@@ -1,0 +1,13 @@
+BILL TO: Krishna Store LLC, Edison NJ
+REF INV-20260006 | DATED 01/29/2026 | TERMS: due 02/28/2026
+
+| Item | Qty | Rate | Line total |
+|---|---|---|---|
+| Poly mailers 10x13 (100 ct) | 4 | 14.95 | 59.80 |
+| Bubble wrap roll 12in x 50ft | 8 | 16.80 | 134.40 |
+| Corrugated boxes 12x9x4 (bundle of 25) | 11 | 18.40 | 202.40 |
+| Freight handling fee | 9 | 45.00 | 405.00 |
+
+Subtotal 801.60 / Sales tax 53.11 / TOTAL USD 854.71
+
+Remit to: Keystone Freight Services, Accounts Receivable

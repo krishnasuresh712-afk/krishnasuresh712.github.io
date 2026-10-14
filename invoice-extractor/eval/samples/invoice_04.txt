@@ -1,0 +1,16 @@
+Raritan Industrial Supply
+1200 Route 1, Edison, NJ 08817
+
+Invoice #: INV-20260004
+Invoice Date: 2026-01-20
+Due Date: 2026-03-06
+
+Description                                 Qty  Unit Price     Amount
+Freight handling fee                          9      $45.00     $405.00
+Corrugated boxes 12x9x4 (bundle of 25)        3      $18.40      $55.20
+Poly mailers 10x13 (100 ct)                   5      $14.95      $74.75
+Pallet wrap 18in                              7      $27.60     $193.20
+
+Subtotal: $728.15
+Tax (6.625%): $48.24
+Total: $776.39
