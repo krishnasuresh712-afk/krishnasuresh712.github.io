@@ -1,0 +1,9 @@
+sku,name,on_hand,lead_time_days,safety_stock_days
+SKU-101,Phone Stand,42,14,7
+SKU-102,USB-C Cable 2-Pack,18,10,7
+SKU-103,Laptop Sleeve 14in,9,21,7
+SKU-104,Desk Cable Organizer,60,12,7
+SKU-105,Wireless Charging Pad,7,18,7
+SKU-106,Monitor Light Bar,15,25,7
+SKU-107,Keyboard Wrist Rest,33,14,7
+SKU-108,Webcam Privacy Cover 3-Pack,80,7,7
