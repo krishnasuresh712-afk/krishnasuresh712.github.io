@@ -1,0 +1,110 @@
+{
+  "cycle_time": {
+    "cases": 800,
+    "completed_cases": 742,
+    "open_cases": 58,
+    "median_cycle_days": 27.0,
+    "p90_cycle_days": 52.9
+  },
+  "conformance": {
+    "cases": 800,
+    "follow_reference_path_pct": 55.4,
+    "skipped_approval_cases": 58,
+    "skipped_approval_pct": 7.2,
+    "approval_after_pick_cases": 0
+  },
+  "top_variants": [
+    {
+      "variant": "Create Order > Credit Check > Approve Order > Pick > Pack > Ship > Create Invoice > Receive Payment",
+      "cases": 443,
+      "share_pct": 55.4,
+      "cumulative_pct": 55.4
+    },
+    {
+      "variant": "Create Order > Credit Check > Change Price > Credit Check > Approve Order > Pick > Pack > Ship > Create Invoice > Receive Payment",
+      "cases": 99,
+      "share_pct": 12.4,
+      "cumulative_pct": 67.8
+    },
+    {
+      "variant": "Create Order > Credit Check > Manual Credit Review > Approve Order > Pick > Pack > Ship > Create Invoice > Receive Payment",
+      "cases": 95,
+      "share_pct": 11.9,
+      "cumulative_pct": 79.7
+    },
+    {
+      "variant": "Create Order > Credit Check > Pick > Pack > Ship > Create Invoice > Receive Payment",
+      "cases": 37,
+      "share_pct": 4.6,
+      "cumulative_pct": 84.3
+    },
+    {
+      "variant": "Create Order > Credit Check > Approve Order > Pick > Pack > Ship > Create Invoice",
+      "cases": 31,
+      "share_pct": 3.9,
+      "cumulative_pct": 88.2
+    }
+  ],
+  "bottlenecks": [
+    {
+      "source": "Ship",
+      "target": "Create Invoice",
+      "count": 800,
+      "median_wait_hours": 38.5,
+      "total_wait_hours": 38102.0,
+      "share_of_internal_wait_pct": 49.6
+    },
+    {
+      "source": "Approve Order",
+      "target": "Pick",
+      "count": 742,
+      "median_wait_hours": 11.3,
+      "total_wait_hours": 10361.0,
+      "share_of_internal_wait_pct": 13.5
+    },
+    {
+      "source": "Pack",
+      "target": "Ship",
+      "count": 800,
+      "median_wait_hours": 7.9,
+      "total_wait_hours": 7651.0,
+      "share_of_internal_wait_pct": 10.0
+    },
+    {
+      "source": "Credit Check",
+      "target": "Manual Credit Review",
+      "count": 145,
+      "median_wait_hours": 27.8,
+      "total_wait_hours": 4727.0,
+      "share_of_internal_wait_pct": 6.1
+    },
+    {
+      "source": "Credit Check",
+      "target": "Approve Order",
+      "count": 636,
+      "median_wait_hours": 6.0,
+      "total_wait_hours": 4564.0,
+      "share_of_internal_wait_pct": 5.9
+    }
+  ],
+  "rework": [
+    {
+      "activity": "Credit Check",
+      "cases_with_rework": 174,
+      "extra_executions": 209,
+      "rework_rate_pct": 21.8
+    },
+    {
+      "activity": "Change Price",
+      "cases_with_rework": 35,
+      "extra_executions": 35,
+      "rework_rate_pct": 4.4
+    }
+  ],
+  "manual_credit_review_impact": {
+    "activity": "Manual Credit Review",
+    "cases_with": 132,
+    "median_days_with": 28.3,
+    "median_days_without": 26.8
+  }
+}
