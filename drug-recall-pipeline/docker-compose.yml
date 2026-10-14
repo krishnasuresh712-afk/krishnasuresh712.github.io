@@ -1,0 +1,17 @@
+services:
+  ingest:
+    build: .
+    command: python -m src.recall_pipeline.ingest --incremental --since 2024-01-01
+    volumes:
+      - recall-data:/app/data
+  dashboard:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - recall-data:/app/data
+    depends_on:
+      ingest:
+        condition: service_completed_successfully
+volumes:
+  recall-data:
